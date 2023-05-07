@@ -1,4 +1,9 @@
-<p  align="center"><img src = "https://tenor.com/bCISO.gif"></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+</p>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
 
 # Hello World! 👋
 
@@ -16,9 +21,9 @@
 
 ## I'm [**Annajat**](https://www.linkedin.com/in/annajat-malainine-932171aa/) and welcome to my GitHub profile! :octocat:
 
-<img align="right" height="250" width="375" alt="GIF" src="https://tenor.com/bCISO.gif" />
 
-I'm a **`Data Analyst`**, and a **`Network and Telecommunications Engineer`**!
+
+I'm a **`Data Analyst`** and a **`Network and Telecommunications Engineer`**!
 
 ❤️ **Fun facts:**
 
