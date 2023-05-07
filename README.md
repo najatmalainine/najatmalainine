@@ -1,4 +1,4 @@
-<p  align="center"><img src = "IMG/intro.gif"></p>
+<p  align="center"><img src = "https://tenor.com/bCISO.gif"></p>
 
 # Hello World! 👋
 
@@ -16,7 +16,7 @@
 
 ## I'm [**Annajat**](https://www.linkedin.com/in/annajat-malainine-932171aa/) and welcome to my GitHub profile! :octocat:
 
-<img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://tenor.com/bCISO.gif" />
 
 I'm a **`Data Analyst`**, and a **`Network and Telecommunications Engineer`**!
 
