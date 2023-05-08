@@ -19,7 +19,7 @@
 </a>
 <br />
 
-## I'm [**Annajat**](https://www.linkedin.com/in/annajat-malainine-932171aa/) and welcome to my GitHub profile! :octocat:
+## I'm [**Annajat**](https://www.linkedin.com/in/annajat-malainine-932171aa/) welcome to my GitHub profile! :octocat:
 
 
 
@@ -27,7 +27,7 @@ I'm a **`Data Analyst`** and a **`Network and Telecommunications Engineer`**!
 
 ❤️ **Fun facts:**
 
-* 👩‍🎓 After Obtaining my Specialized Masters degree on Data Science, I have successfuly completed the Google Data Analytics Professional Certificate. 
+* 👩‍🎓 After Obtaining my Specialized Masters degree in Data Science, I have successfuly completed the Google Data Analytics Professional Certificate. 
 * ✍️ Currently working on my Portflio to help me land a job in the industry. 
 * ✨  
 * 🤔 
